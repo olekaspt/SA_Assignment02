@@ -26,14 +26,6 @@ For the estimates, of this work, assume you can do 2 hours of pure effort per da
 NOTE : typicall in industry we assume 4 hours of pure effort is one calendar day. But the above assumption is as a student with other obligations you can put only 2 hours towards this class.
 
 Part 2)
-Solve one of the selected problems.
-
-
-for your Estimate on the both problem(s).  For this chart, do Problem 1 and then Problem 2. And then work on one problem and solve it.  You do not need to solve the second one.  NOTE: repeating this again, you do not need to solve both problems 😊
-
-I want you to track your initial estimate (in pure effort hours).  And use the rule of thumb, 4 hours pure effort is 1 calendar day. And the record how much real effort you spent.  No points will be deducted if you underestimated the time.  This is meant to get you used to the idea of tracking how well you estimated your task (hint, this is going to be part of all assignments going forward 😊).
-
-Part 2)
 Ok using your gannt Chart, let’s play some hypothetical.  Make a copy of your spreadsheet worksheet and make a copy of it, and label it hypothetical.
 
 Let’s pretend we need work with Application Engineer (QA) to test our code after we believe it complete.  Think of codingame tests as UnitTest\Automated tests.  But a QA person needs to do manual testing (exploration testing).  And trust me QA always find bugs (or at least working as designed features 😊).
