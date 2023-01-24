@@ -26,7 +26,7 @@ For the estimates, of this work, assume you can do 2 hours of pure effort per da
 NOTE : typicall in industry we assume 4 hours of pure effort is one calendar day. But the above assumption is as a student with other obligations you can put only 2 hours towards this class.
 
 Part 2)
-Ok using your gannt Chart, let’s play some hypothetical.  Make a copy of your spreadsheet worksheet and make a copy of it, and label it hypothetical.
+Ok using your gannt Chart, let’s play some hypothetical.  Make a copy of your sequential spreadsheet worksheet and make a copy of it, and label it hypothetical.
 
 Let’s pretend we need work with Application Engineer (QA) to test our code after we believe it complete.  Think of codingame tests as UnitTest\Automated tests.  But a QA person needs to do manual testing (exploration testing).  And trust me QA always find bugs (or at least working as designed features 😊).
 Add them to the schedule, with the following constraints.
@@ -36,6 +36,8 @@ Add them to the schedule, with the following constraints.
 •	QA will require another 4 hours to test the code after bugs have been fixed.
 •	As efficiently possible, schedule the developer work on second problem while QA is testing the first problem.  
 •	And then have QA test the second problem.
+
+And then repeat this process for the parallel sheet.
 
 Part 3) 
 Pick either problem 1 or 2.  And solve the problem on your own without googling or getting past solutions.  At least until 2 hour mark, and then you can google a solution.
@@ -47,7 +49,7 @@ Questions to answer:
 * Did some of the UnitTests that were provided, would you have come up with them on your own?
 
 For you report.
-* One spreadsheet with multiple sheets.  Sheet 1 is for Pt1, Sheet 2 is for Pt 2.
+* One spreadsheet with multiple sheets.  Sheet 1 is for Pt1, Sheet 2 is for Pt 1.  And the two more sheet for the Qa person
 * PDF report for Part 3
   * Screenshots of the green submit check mark
   * Answers to questions posed in Part 3
