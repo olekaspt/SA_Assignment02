@@ -19,7 +19,7 @@ The solution MUST be done in C++, C#, or Java
 Part 1)
 I want you setup two Gannt charts (using the proposed spreadsheet template).  For both of these charts, you will be solving problem 1 and 2.  (If you are in a group of 3, assume there is a Problem 3 in equivilant scope of work as Problem 2).
 
-In the first one, you will work sequentially, solve problem 1 before you solve problem 2.  And the second one you can solve both problems sequentially.
+In the first one, you will work sequentially, solve problem 1 before you solve problem 2.  And the second one you can solve both problems concurrently.
 
 For the estimates, of this work, assume you can do 2 hours of pure effort per day.  And also assume you can't google the solution.
 
