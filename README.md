@@ -19,14 +19,18 @@ The solution MUST be done in C++, C#, or Java
 Part 1)
 I want you setup two Gannt charts (using the proposed spreadsheet template).  For both of these charts, you will be solving problem 1 and 2.  (If you are in a group of 3, assume there is a Problem 3 in equivilant scope of work as Problem 2).
 
-In the first one, you will work sequentially, solve problem 1 before you solve problem 2.  And the second one you can solve both problems concurrently.
+THe supplied template is used for inspiration.  Phase 1 and Phase 2 are from the template I found.  Feel free to use the split up format, or use your own.  Ignore the columns on progress.
 
-For the estimates, of this work, assume you can do 2 hours of pure effort per day.  And also assume you can't google the solution.
+In the first sheet, you will work sequentially, solve problem 1 before you solve problem 2.  
+
+And the second sheet you will solve both problems concurrently.
+
+For the estimates, of this work, assume you can do 2 hours of pure effort per day.  And also assume you can't google the solution (for estimation).
 
 NOTE : typicall in industry we assume 4 hours of pure effort is one calendar day. But the above assumption is as a student with other obligations you can put only 2 hours towards this class.
 
 Part 2)
-Ok using your gannt Chart, let’s play some hypothetical.  Make a copy of your sequential spreadsheet worksheet and make a copy of it, and label it hypothetical.
+Ok using your gannt Chart, let’s add in QA.
 
 Let’s pretend we need work with Application Engineer (QA) to test our code after we believe it complete.  Think of codingame tests as UnitTest\Automated tests.  But a QA person needs to do manual testing (exploration testing).  And trust me QA always find bugs (or at least working as designed features 😊).
 Add them to the schedule, with the following constraints.
@@ -37,7 +41,10 @@ Add them to the schedule, with the following constraints.
 •	As efficiently possible, schedule the developer work on second problem while QA is testing the first problem.  
 •	And then have QA test the second problem.
 
-And then repeat this process for the parallel sheet.
+So on new sheet work on the problems with QA.
+And then on aonther sheet, repeat this process with QA for the parallel case.
+
+At the end of this you wil have 4 sheets.
 
 Part 3) 
 Pick either problem 1 or 2.  And solve the problem on your own without googling or getting past solutions.  At least until 2 hour mark, and then you can google a solution.
