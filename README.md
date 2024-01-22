@@ -23,7 +23,7 @@ Questions to answer:
 * How well was your estimates (answer for each partner)?
 * Did you account for defect injection (the pure optimist problem)?  Reminder Defect Injection is where you will inject a bug per X Lines of Code.
 * The way CodeInGame works is it gives you the UnitTests upfront.  How long would it have taken you to make UnitTests?  
-* For the UnitTests that were provided, would you have come up with them on your own?
+* For this case, the UnitTests that were provided, would you have come up with them on your own?
 
 For you report.
 * PDF report for Part 1
