@@ -27,7 +27,7 @@ Questions to answer:
 
 For you report.
 * PDF report for Part 1
-  * Screenshots of the green submit check mark
+  * Screenshots of the 100 Percent completed.
   * Answers to questions posed in Part 1
   * Code copied to file, so we can confirm no sharing of solutions.
   
