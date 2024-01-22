@@ -14,7 +14,7 @@ https://www.codingame.com/training/hard/super-computer
 
 The problem to solve should only take about an two hours max with two people. Please do not google the solution (at least initially), as I wanted to pick something that was quick and easy, had built-in testcases and such.  If you spend more than 2 hours (individually or group), then do look for inspiration and attribute correctly.
 
-The solution MUST be done in C++, C#, or Java
+The solution MUST be done in C++, C#, Python, and Java
 
 Part 1) 
 Pick either problem 1 or 2.  And solve the problem on your own without googling or getting past solutions initially.  At least until 2 hour mark, and then you can google a solution.
